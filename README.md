@@ -2,7 +2,13 @@
 <h1>AI-Driven Document Intelligence System</h1>
 
 <h2>Overview</h2>
-<p>This repository showcases an <strong>AI-Driven Document Intelligence System</strong> designed for smart document categorization, fraud detection, and interactive question answering. The system integrates deep learning models, Optical Character Recognition (OCR), and Large Language Models (LLMs) to streamline document management processes and enable secure, efficient workflows.</p>
+<p>This repository showcases an <strong>AI-Driven Document Intelligence System</strong> designed for smart document categorization, fraud detection, and interactive question answering. The system integrates deep learning models, Optical Character Recognition (OCR), and Large Language Models (LLMs) to streamline document management processes and enable secure, efficient workflows.
+<br>The system is designed to address key challenges such as:
+<li>Categorizing documents accurately for streamlined workflows.</li>
+<li>Detecting fraudulent documents to ensure security and authenticity.</li>
+<li>Extracting textual information efficiently from images and scanned PDFs.</li>
+<li>Answering queries interactively, saving time in manual document review.</li>
+</p>
 <hr>
 <h2>Proposed Methodology</h2>
 
@@ -10,7 +16,8 @@
 
 <h2>Features</h2>
 <h3>1. Document Classification</h3>
-<p>The document classification module leverages <strong>Custom CNN</strong> and <strong>VGG16</strong> models to categorize documents such as Aadhaar cards, PAN cards, passports, and more.</p>
+<p>The document classification module leverages <strong>Custom CNN</strong> and <strong>VGG16</strong> models to categorize documents such as Aadhaar cards, PAN cards, passports, and more.This eliminates the need for manual sorting and ensures quick access to organized information.
+<br>Manual classification is time-consuming and error-prone. This module provides an automated and reliable solution for organizing documents in bulk, improving efficiency in administrative tasks.</p>
 <ul>
 <li><strong>Custom CNN Model:</strong>
             <ul>
@@ -40,7 +47,7 @@
 <hr>
 
 <h3>2. Fraud Detection using Template Matching</h3>
-<p>This feature uses template-matching algorithms to detect subtle discrepancies in documents and identify fraudulent ones.</p>
+<p>This feature uses template-matching algorithms to detect subtle discrepancies in documents and identify fraudulent ones.This ensures document integrity and protects against security breaches.</p>
 
 <ul>
         <li><strong>Template Extraction:</strong>
@@ -77,7 +84,7 @@
 <hr>
 
 <h3>3. Optical Character Recognition (OCR)</h3>
-<p>The OCR module uses <strong>Pytesseract</strong> to extract textual information from scanned documents.</p>
+<p>The OCR module uses <strong>Pytesseract</strong> to extract textual information from scanned documents,making them searchable and editable. This is particularly useful for digitizing physical documents.</p>
 
 <h4>Preprocessing:</h4>
 <ul>
@@ -102,7 +109,8 @@
 
 ![qna](https://github.com/user-attachments/assets/3001aa26-6e6c-4f19-a276-7ce39e5236f5)
 
-<p>This feature enables users to query documents directly using <strong>LLMs</strong> integrated with the <strong>LangChain</strong> framework.</p>
+<p>This feature enables users to query documents directly using <strong>LLMs</strong> integrated with the <strong>LangChain</strong> framework.
+<br>it provides instant answers, enhancing usability and reducing manual review effort.</p>
 
 <h4>Workflow:</h4>
 <ul>

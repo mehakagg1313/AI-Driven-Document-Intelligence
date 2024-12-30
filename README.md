@@ -99,6 +99,7 @@
 <hr>
 
 <h3>4. Interactive Question Answering</h3>
+
 ![qna](https://github.com/user-attachments/assets/3001aa26-6e6c-4f19-a276-7ce39e5236f5)
 
 <p>This feature enables users to query documents directly using <strong>LLMs</strong> integrated with the <strong>LangChain</strong> framework.</p>

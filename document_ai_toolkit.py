@@ -317,7 +317,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import FAISS
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # from typing_extensions import Concatenate
 # # read text from pdf

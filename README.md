@@ -7,6 +7,9 @@
 <h2>Overview</h2>
 <p>This repository showcases an <strong>AI-Driven Document Intelligence System</strong> designed for smart document categorization, fraud detection, and interactive question answering. The system integrates deep learning models, Optical Character Recognition (OCR), and Large Language Models (LLMs) to streamline document management processes and enable secure, efficient workflows.</p>
 <hr>
+<h2>Proposed Methodology</h2>
+
+<hr>![methodology](https://github.com/user-attachments/assets/2fd22b2f-d684-4e1d-a0f3-f893c4b3049f)
 
 <h2>Features</h2>
 <h3>1. Document Classification</h3>
@@ -99,6 +102,8 @@
 <hr>
 
 <h3>4. Interactive Question Answering</h3>
+![qna](https://github.com/user-attachments/assets/3001aa26-6e6c-4f19-a276-7ce39e5236f5)
+
 <p>This feature enables users to query documents directly using <strong>LLMs</strong> integrated with the <strong>LangChain</strong> framework.</p>
 
 <h4>Workflow:</h4>

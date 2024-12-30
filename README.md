@@ -1,7 +1,4 @@
 
-<head>
-    AI-Driven Document Intelligence System
-</head>
 <h1>AI-Driven Document Intelligence System</h1>
 
 <h2>Overview</h2>
@@ -9,7 +6,7 @@
 <hr>
 <h2>Proposed Methodology</h2>
 
-<hr>![methodology](https://github.com/user-attachments/assets/2fd22b2f-d684-4e1d-a0f3-f893c4b3049f)
+![methodology](https://github.com/user-attachments/assets/2fd22b2f-d684-4e1d-a0f3-f893c4b3049f)
 
 <h2>Features</h2>
 <h3>1. Document Classification</h3>
